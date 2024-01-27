@@ -1,6 +1,8 @@
 ## olá pessoal 👋
 ### Bem-vindos ao meu perfil !!
 
+ Me chamo Paulo Henrique sou estudante de desenvolvimento web me especializando em desenvolvimento front-end.
+
 
 
 <a href="https://github.com/paulohpl/github-readme-stats">
@@ -11,10 +13,24 @@
 </a>
 
 ##
+### Eu estou estudando... 🧩
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-          
+
+##
+### Cursos realizados 🤓
+
+- **Tecnólogo em Desenvolvimento web**
+- **Potência Tech iFood - Desenvolvimento de Jogos**
+##
+
+### Entre em contato comigo! 📭
+<div>
+<a href="https://instagram.com/paulohpl11" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/paulo-henrique-front-end-developer/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
 
 
 
