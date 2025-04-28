@@ -1,7 +1,7 @@
 ## olá pessoal 👋
 ### Bem-vindos ao meu perfil !!
 
- Me chamo Paulo Henrique sou estudante de desenvolvimento web me especializando em desenvolvimento front-end.
+
 
 ##
 ### Eu estou estudando... 🧩
